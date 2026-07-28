@@ -1,4 +1,4 @@
-**Cutbank** is a numerical model for a meandering river that optionally interacts with heterogeneous bank materials. See the included manual for detailed information and a quick-start guide with example applications. The code has been tested on 64-bit operating systems on PC and Mac. If you use or adapt this model for work that results in a publication, please acknowledge Cutbank in the text and cite one or more of the following papers, as appropriate:
+**Cutbank** is a numerical model for a meandering river that interacts with heterogeneous bank materials. See the included manual for detailed information and a quick-start guide with example applications. The code has been tested on 64-bit operating systems on PC and Mac. If you use or adapt this model for work that results in a publication, please acknowledge Cutbank in the text and cite one or more of the following papers, as appropriate:
 
 Limaye, A. B. S., & Lamb, M. P. (2013). A vector-based method for bank-material tracking in coupled models of meandering and landscape evolution. Journal of Geophysical Research: Earth Surface, 118(4), 2421–2437. https://doi.org/10.1002/2013JF002854
 
