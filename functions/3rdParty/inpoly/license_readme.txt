@@ -1,0 +1,1 @@
+As of April 26, 2018, there is no license included with this code.

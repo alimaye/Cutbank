@@ -1,0 +1,1 @@
+This directory is the default location for file output. The files for each model run are saved to associated subdirectories.
